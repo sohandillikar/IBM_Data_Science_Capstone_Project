@@ -9,12 +9,12 @@ can determine if the first stage will land, we can determine the cost
 of a launch. This information can be used if an alternate company wants 
 to bid against SpaceX for a rocket launch.
 ## :page_facing_up: Questions
+**Task:** Predict the likelihood of the first stage rocket landing successfully.
 - How do variables such as payload mass, launch site, number of 
 flights, and orbits affect the success of the first stage landing? 
 - Does the rate of successful landings increase over the years? 
 - What is the best algorithm that can be used for binary classification 
 in this case?
-**Task:** Predict the likelihood of the first stage rocket landing successfully.
 ## :page_facing_up: Methodology
   ### 1. Data Collection
   - Using SpaceX Rest API
